@@ -6,7 +6,7 @@ This package enables you to convert list,tuple and set into queryset
 To install this package, use 
 
 ```bash
-pip install pretty-text
+pip install convert-to-queryset
 ```
 # for list 
 import it using the following
