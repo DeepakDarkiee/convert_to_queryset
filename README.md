@@ -1,0 +1,1 @@
+library for convert list,tuple and dictionary into queryset
