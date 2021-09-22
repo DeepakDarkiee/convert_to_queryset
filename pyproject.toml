@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "convert_to_queryset"
-version = "0.1.5"
+version = "0.1.6"
 description = "library for convert list,tuple and dictionary into queryset"
 authors = ["deepak <info.deepakpatidar@gmail.com>"]
 repository = 'https://github.com/DeepakDarkiee/convert_to_queryset.git'

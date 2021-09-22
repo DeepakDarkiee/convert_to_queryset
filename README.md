@@ -11,7 +11,7 @@ pip install convert-to-queryset
 # for list 
 import it using the following
 ```bash
-from convert import list_to_queryset
+from convert_to_queryset import list_to_queryset
 ```
 
 it will take two arguments: model and list
