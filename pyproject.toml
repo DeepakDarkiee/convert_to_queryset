@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "convert_to_queryset"
-version = "0.1.0"
-description = ""
+version = "0.1.2"
+description = "library for convert list,tuple and dictionary into queryset"
 authors = ["deepak <info.deepakpatidar@gmail.com>"]
 
 [tool.poetry.dependencies]
